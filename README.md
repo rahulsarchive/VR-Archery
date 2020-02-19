@@ -1,9 +1,9 @@
 # VR-Archery
 Converting a Archery Bow into a VR Game Controller
 
-Version 1
+## Version 1
 
-66" Bow with a 32mm piston and cylinder
+#### 66" Bow with a 32mm piston and cylinder
 
 ![VR Bow](Images/v11.jpg)
 
@@ -20,7 +20,7 @@ Version 1
 
 ## Version 2
 
-55" Bow with a 25mm Piston and Cylinder
+#### 55" Bow with a 25mm Piston and Cylinder
 
 ![VR Bow](Images/v21.jpg)
 
