@@ -5,15 +5,16 @@ Version 1
 
 66" Bow with a 32mm piston and cylinder
 
-![VR Bow](Images/V1 (1).jpg)
+![VR Bow](Images/v11.jpg)
 
-![VR Bow](Images/V1 (2).jpg)
+![VR Bow](Images/v12.jpg)
 
-![VR Bow](Images/V1 (3).jpg)
+![VR Bow](Images/v13.jpg)
 
-![VR Bow](Images/V1 (4).jpg)
+![VR Bow](Images/v14.jpg)
 
-![VR Bow](Images/V1 (5).jpg)
+![VR Bow](Images/v15.jpg)
+
 
 ![VR Bow](Images/V1.gif)
 
@@ -21,22 +22,19 @@ Version 1
 
 55" Bow with a 25mm Piston and Cylinder
 
-![VR Bow](Images/V2 (1).jpg)
+![VR Bow](Images/v21.jpg)
 
 
-![VR Bow](Images/V2 (2).jpg)
+![VR Bow](Images/v22.jpg)
 
+![VR Bow](Images/v23.jpg)
 
-![VR Bow](Images/V2 (3).jpg)
+![VR Bow](Images/v24.jpg)
 
+![VR Bow](Images/v25.jpg)
 
-![VR Bow](Images/V2 (4).jpg)
+![VR Bow](Images/v26.jpg)
 
+![VR Bow](Images/v27.jpg)
 
-![VR Bow](Images/V2 (5).jpg)
-
-
-![VR Bow](Images/V2 (6).jpg)
-
-![VR Bow](Images/V2 (7).jpg)
-
+![VR Bow](Images/V2.gif)
